@@ -13,6 +13,12 @@ OpenClaw / Claude Code / Cursor 技能集合。拿来即用，持续更新。
 | [self-improvement](./skills/self-improvement/) | 错误日志 + 持续改进 | 每次失败后记录，循环优化 |
 | [agent-builder](./skills/agent-builder/) | 构建高表现 Agent | 从零设计新 Agent |
 | [healthcheck](./skills/healthcheck/) | 系统巡检 + 安全审计 | 定期体检、问题诊断 |
+| [agent-swarm](./skills/agent-swarm/) | 多 Agent 编排框架 | 多角色协作、任务路由、状态机 |
+| [system-inspection](./skills/system-inspection/) | OpenClaw 系统巡检 SOP | 定时体检、低打扰式诊断 |
+| [node-connect](./skills/node-connect/) | 设备配对诊断 | QR 连接失败、token 失效排查 |
+| [session-logs](./skills/session-logs/) | 会话日志分析 | jq 搜索历史对话 |
+| [taskflow](./skills/taskflow/) | 跨会话任务编排 | 持久化任务流、子任务链接 |
+| [minimax-team-rules](./skills/minimax-team-rules/) | MiniMax 多 Agent 规范 | 小美/大龙/小语协作规则 |
 
 ## 安装方式
 
