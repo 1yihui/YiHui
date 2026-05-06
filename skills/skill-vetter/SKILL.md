@@ -1,7 +1,7 @@
 ---
 name: skill-vetter
 version: 1.0.0
-description: Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.
+description: Security-first skill vetting for AI agents. Use before installing any skill from ClawHub, GitHub, or other sources. Checks for red flags, permission scope, and suspicious patterns.
 tags:
   - security
   - vetting
@@ -16,7 +16,7 @@ Security-first vetting protocol for AI agent skills. **Never install a skill wit
 
 ## When to Use
 
-- Before installing any skill from ClawdHub
+- Before installing any skill from ClawHub
 - Before running skills from GitHub repos
 - When evaluating skills shared by other agents
 - Anytime you're asked to install unknown code
@@ -86,7 +86,7 @@ After vetting, produce this report:
 SKILL VETTING REPORT
 ═══════════════════════════════════════
 Skill: [name]
-Source: [ClawdHub / GitHub / other]
+Source: [ClawHub / GitHub / other]
 Author: [username]
 Version: [version]
 ───────────────────────────────────────

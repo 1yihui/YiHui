@@ -7,7 +7,6 @@ tags:
   - analysis
 compatibility: openclaw
 license: MIT
-metadata:
   {
     "openclaw":
       {
