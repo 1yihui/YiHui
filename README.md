@@ -137,3 +137,41 @@ MIT — 可商用，可修改，可分发。
 ---
 
 _持续更新，欢迎 Star ⭐_
+
+## Skills
+
+<!-- skills:auto:start -->
+- `agent-builder` — agent-builder: Build high-performing OpenClaw agents end-to-end. Use when you want to design a new agent (persona +
+- `agent-memory-wisdom` — brain: brain v1.1.7 用户版（免费）：让AI Agent拥有类大脑决策架构。置信度触发、双保险记忆、经验胶囊复用。开箱即用，3片段内存池，2并发上限。
+- `agent-swarm` — agent-swarm: Multi-agent orchestration framework for OpenClaw. Define roles, route tasks, manage state, and coord
+- `agent-team-orchestration` — agent-team-orchestration: Orchestrate multi-agent teams with defined roles, task lifecycles, handoff protocols, and review wor
+- `ai-image-prompts` — ai-image-prompts-skill
+- `akshare-stock` — akshare-stock: A股量化数据分析工具，基于AkShare库获取A股行情、财务数据、板块信息等。用于回答关于A股股票查询、行情数据、财务分析、选股等问题。
+- `context-mode` — context-mode: context-mode is an MCP server that saves 98% of your context window by sandboxing tool outputs. It r
+- `daily-news-digest` — Daily News Digest: Personalized news briefings from your chosen sources, delivered morning or evening, with voice optio
+- `dfcf-stock-intraday` — eastmoney-intraday: 使用东方财富 API 获取 A 股（沪市/深市）及指数的日内分时数据。当用户询问某只 A 股或指数的日内走势、分时数据、当日行情、实时价格、分时图数据时，必须使用此 skill。触发关键词包括：分时数
+- `git-monitor` — git-monitor: 通用 Git 项目监控工具。支持 GitHub、GitLab、Gitee 等所有 Git 平台。可以添加、删除、检查任意 Git 仓库的更新，自动拉取代码并生成变更摘要。当用户询问"监控项目"、"检查
+- `github-monitor` — github-monitor: Monitor one or more GitHub repositories and send low-noise alerts with configurable policy modes (ma
+- `healthcheck` — healthcheck: Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user a
+- `memclaw` — memclaw: MemClaw — High-performance memory plugin for OpenClaw. Outperforms native and other memory-solutions
+- `minimax-team-rules` — minimax-team-rules: Shared MiniMax / MMX CLI operating rules for XiaoMei, DaLong, YuanQi, and the main coordinator. Trig
+- `node-connect` — node-connect: Diagnose OpenClaw node connection and pairing failures for Android, iOS, and macOS companion apps. U
+- `oc-full-ops-audit-recipe` — oc-full-ops-audit-recipe: End-to-end OpenClaw audit and remediation recipe for gateway, channels, nodes, security, and memory 
+- `openclaw-multi-agent-orchestrator` — openclaw-multi-agent-orchestrator
+- `openclaw-ops` — openclaw-ops: Use when diagnosing, repairing, or maintaining an OpenClaw Gateway on the same machine. Designed for
+- `peekaboo` — peekaboo: Capture and automate macOS UI with the Peekaboo CLI.
+- `personality-switcher` — personality-switcher: Create and switch between AI assistant personalities. Use /personality to list and activate saved pe
+- `rss-feed-digest` — rss-digest: Fetch, filter, and summarize RSS/Atom feeds into a clean daily or weekly digest. Supports multiple f
+- `seedance` — seedance: Generate cinematic video prompts for Seedance 2.0 (ByteDance). Use when user asks for video prompts,
+- `self-improvement` — self-improvement: Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A comman
+- `self-improving` — Self-Improving + Proactive Agent: Self-reflection + Self-criticism + Self-learning + Self-organizing memory. Agent evaluates its own w
+- `self-improving-agent` — self-improvement: Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A comman
+- `session-logs` — session-logs: Search and analyze your own session logs (older/parent conversations) using jq.
+- `skill-vetter` — skill-vetter: Security-first skill vetting for AI agents. Use before installing any skill from ClawdHub, GitHub, o
+- `system-inspection` — system-inspection: 大龙系统巡检 SOP - 低打扰式定期检查 OpenClaw 运行时状态、Gateway、Channel、Tasks 与错误日志。只整理值得行动的问题，格式输出「结论 / 原因 / 建议」。由「大龙-
+- `taskflow` — taskflow: Use when work should span one or more detached tasks but still behave like one job with a single own
+- `taskflow-inbox-triage` — taskflow-inbox-triage: Example TaskFlow authoring pattern for inbox triage. Use when messages need different treatment base
+- `video-prompting-guide` — video-prompting-guide: Best practices and techniques for writing effective AI video generation prompts. Covers: Veo, Seedan
+- `weather` — weather: Get current weather and forecasts via wttr.in or Open-Meteo. Use when: user asks about weather, temp
+- `yinyo-liuyao` — yinyo-liuyao
+<!-- skills:auto:end -->
