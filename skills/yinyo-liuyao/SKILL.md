@@ -1,5 +1,6 @@
 ---
 name: yinyo-liuyao
+license: MIT
 description: |
   六爻断卦引擎(野鹤先生法)。基于《增删卜易》全文蒸馏,120条经验规则 + 412个应验卦例 + 64卦纳甲常量表。
 
@@ -18,6 +19,8 @@ description: |
   【用户输入要求】
   必须提供:起卦时间(年月日)、占什么事、主卦名、各爻六亲+地支+世应+动爻。变卦名如有动爻则提供。
   如果用户只给卦名不给装卦信息,引擎会先按纳甲常量表自动装卦。
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw
 ---
 
 ## 2. 用户输入规范

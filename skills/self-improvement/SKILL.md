@@ -1,12 +1,13 @@
 ---
 name: self-improvement
-description: Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects you, (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) You realize knowledge is outdated, (6) A better approach is discovered for a recurring task.
+description: "Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects you, (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) You realize knowledge is outdated, (6) A better approach is discovered for a recurring task."
 tags:
   - self-improvement
   - memory
   - agent-learning
 compatibility: openclaw | claude-code | cursor | any-agent
 license: MIT
+source: https://github.com/1yihui/YiHui
 ---
 
 # Self-Improvement Skill
@@ -53,7 +54,7 @@ OpenClaw is the primary platform for this skill. It uses workspace-based prompt 
 
 ### Installation
 
-**Via ClawdHub (recommended):**
+**Via ClawHub (recommended):**
 ```bash
 clawdhub install self-improving-agent
 ```

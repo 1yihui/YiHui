@@ -1,6 +1,9 @@
 ---
 name: oc-full-ops-audit-recipe
+license: MIT
 description: End-to-end OpenClaw audit and remediation recipe for gateway, channels, nodes, security, and memory sync.
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw
 ---
 
 # OC Full Ops Audit Recipe

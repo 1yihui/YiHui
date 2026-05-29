@@ -8,6 +8,8 @@ description: |
   适用于复杂任务分解、多角色协作、企业级应用。
   关键词：openclaw, multi-agent, orchestration, automation, enterprise, collaboration
 license: MIT-0
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw
 acceptLicenseTerms: true
 tags:
   - openclaw
@@ -85,11 +87,6 @@ python3 orchestrator.py --dispatch "写一份使用指南" --agent writer-agent
 # 4. 查看任务状态
 python3 orchestrator.py --status
 ```
-
----
-
-**作者：** @williamwg2025  
-**版本：** 1.0.0
 
 ---
 

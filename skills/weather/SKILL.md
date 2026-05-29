@@ -1,25 +1,21 @@
 ---
 name: weather
+license: MIT
 description: "Get current weather and forecasts via wttr.in or Open-Meteo. Use when: user asks about weather, temperature, or forecasts for any location. NOT for: historical weather data, severe weather alerts, or detailed meteorological analysis. No API key needed."
 homepage: https://wttr.in/:help
 metadata:
-  {
-    "openclaw":
-      {
-        "emoji": "☔",
-        "requires": { "bins": ["curl"] },
-        "install":
-          [
-            {
-              "id": "brew",
-              "kind": "brew",
-              "formula": "curl",
-              "bins": ["curl"],
-              "label": "Install curl (brew)",
-            },
-          ],
-      },
-  }
+  openclaw:
+    emoji: "☔"
+    requires:
+      bins: ["curl"]
+    install:
+      - id: brew
+        kind: brew
+        formula: curl
+        bins: ["curl"]
+        label: Install curl (brew)
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw | claude-code | cursor | any-agent
 ---
 
 # Weather Skill

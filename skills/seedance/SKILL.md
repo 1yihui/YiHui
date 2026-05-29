@@ -1,6 +1,9 @@
 ---
 name: seedance
-description: Generate cinematic video prompts for Seedance 2.0 (ByteDance). Use when user asks for video prompts, Seedance prompts, AI video generation prompts, or anything related to Seedance 2.0 prompt crafting. Triggers on: seedance, video prompt, AI video, text to video prompt, seedance prompt.
+license: MIT
+description: "Generate cinematic video prompts for Seedance 2.0 (ByteDance). Use when user asks for video prompts, Seedance prompts, AI video generation prompts, or anything related to Seedance 2.0 prompt crafting. Triggers on: seedance, video prompt, AI video, text to video prompt, seedance prompt."
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw | claude-code | cursor | any-agent
 ---
 
 # Seedance 2.0 Prompt Generator

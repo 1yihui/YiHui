@@ -3,6 +3,7 @@ name: minimax-team-rules
 description: Shared MiniMax / MMX CLI operating rules for XiaoMei, DaLong, YuanQi, and the main coordinator. Trigger this skill whenever the task involves MiniMax, minimax, mmx, mmx-cli, Token Plan, quota, quota interpretation, speech-hd, music-2.6, music-cover, lyrics_generation, image-01, coding-plan-vlm, coding-plan-search, MiniMax capability mapping, OpenClaw tool mapping, or agent-specific delivery/routing rules. Also trigger when the user asks to standardize, document, roll out, align, or sync configuration across multiple agents or files.
 compatibility: openclaw
 license: MIT
+source: https://github.com/1yihui/YiHui
 tags:
   - team-rules
   - multi-agent
@@ -14,6 +15,7 @@ tags:
   - multi-agent
 compatibility: openclaw
 license: MIT
+source: https://github.com/1yihui/YiHui
 
 
 # MiniMax Team Rules

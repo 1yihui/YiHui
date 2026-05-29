@@ -1,9 +1,12 @@
 ---
 name: rss-digest
+license: MIT
 description: Fetch, filter, and summarize RSS/Atom feeds into a clean daily or weekly digest. Supports multiple feeds, keyword filtering, deduplication, and outputs Markdown or plain text summaries.
 author: zacjiang
 version: 1.0.0
 tags: rss, atom, feed, news, digest, summary, newsletter, monitoring, automation
+source: https://github.com/1yihui/YiHui
+compatibility: any-agent
 ---
 
 # RSS Feed Digest

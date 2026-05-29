@@ -1,7 +1,10 @@
 ---
 name: taskflow-inbox-triage
+license: MIT
 description: Example TaskFlow authoring pattern for inbox triage. Use when messages need different treatment based on intent, with some routes notifying immediately, some waiting on outside answers, and others rolling into a later summary.
 metadata: { "openclaw": { "emoji": "📥" } }
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw
 ---
 
 # TaskFlow inbox triage

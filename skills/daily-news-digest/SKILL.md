@@ -1,10 +1,13 @@
 ---
 name: Daily News Digest
+license: MIT
 slug: daily-news-digest
 version: 1.0.0
 homepage: https://clawic.com/skills/daily-news-digest
 description: Personalized news briefings from your chosen sources, delivered morning or evening, with voice option and smart filtering.
-metadata: {"clawdbot":{"emoji":"📰","requires":{"bins":[]},"os":["linux","darwin","win32"]}}
+metadata: {"openclaw":{"emoji":"📰","requires":{"bins":[]},"os":["linux","darwin","win32"]}}
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw
 ---
 
 # Daily News Digest 📰

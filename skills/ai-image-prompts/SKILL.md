@@ -1,5 +1,6 @@
 ---
 name: ai-image-prompts-skill
+license: MIT
 description: |
   Recommend curated prompts from a 10,000+ real-world image generation prompt library.
   Works with ANY AI image model — Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5,
@@ -17,6 +18,8 @@ platforms:
   - cursor
   - codex
   - gemini-cli
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw | claude-code | cursor | any-agent
 ---
 
 > 📖 Prompts curated by [YouMind](https://youmind.com/nano-banana-pro-prompts?utm_source=ai-image-prompts) · 10,000+ community prompts · [Browse the Gallery →](https://youmind.com/nano-banana-pro-prompts?utm_source=ai-image-prompts)

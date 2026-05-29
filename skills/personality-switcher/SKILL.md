@@ -1,6 +1,9 @@
 ---
 name: personality-switcher
+license: MIT
 description: Create and switch between AI assistant personalities. Use /personality to list and activate saved personalities. Use /create-personality to design new personas with auto-filled SOUL and IDENTITY. Personalities persist across session boundaries and conversation compacting with automatic heartbeat restoration. Atomic switching with backup and rollback safeguards. Always backs up current state before switching.
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw
 ---
 
 # Personality Switcher Skill

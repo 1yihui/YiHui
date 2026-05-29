@@ -7,30 +7,23 @@ tags:
   - analysis
 compatibility: openclaw
 license: MIT
-  {
-    "openclaw":
-      {
-        "emoji": "📜",
-        "requires": { "bins": ["jq", "rg"] },
-        "install":
-          [
-            {
-              "id": "brew-jq",
-              "kind": "brew",
-              "formula": "jq",
-              "bins": ["jq"],
-              "label": "Install jq (brew)",
-            },
-            {
-              "id": "brew-rg",
-              "kind": "brew",
-              "formula": "ripgrep",
-              "bins": ["rg"],
-              "label": "Install ripgrep (brew)",
-            },
-          ],
-      },
-  }
+source: https://github.com/1yihui/YiHui
+metadata:
+  openclaw:
+    emoji: "📜"
+    requires:
+      bins: ["jq", "rg"]
+    install:
+      - id: brew-jq
+        kind: brew
+        formula: jq
+        bins: ["jq"]
+        label: Install jq (brew)
+      - id: brew-rg
+        kind: brew
+        formula: ripgrep
+        bins: ["rg"]
+        label: Install ripgrep (brew)
 ---
 
 # session-logs

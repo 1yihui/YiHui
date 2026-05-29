@@ -1,6 +1,9 @@
 ---
 name: github-monitor
+license: MIT
 description: Monitor one or more GitHub repositories and send low-noise alerts with configurable policy modes (major_only, balanced, verbose). Use when setting up recurring repo watch, release/security monitoring, PR merge tracking, and daily digest workflows via OpenClaw cron.
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw
 ---
 
 # GitHub Monitor

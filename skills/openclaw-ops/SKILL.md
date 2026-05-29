@@ -1,5 +1,6 @@
 ---
 name: openclaw-ops
+license: MIT
 version: 1.2.1
 description: Use when diagnosing, repairing, or maintaining an OpenClaw Gateway on the same machine. Designed for rescue agents to fix a down gateway or check operational health. Supports Linux (systemd) and macOS (launchd).
 repository: https://github.com/dinstein/openclaw-ops-skill
@@ -14,6 +15,8 @@ security_notes:
   - The agent will access env files containing tokens (but is instructed never to print them)
   - Config edits are always preceded by timestamped backups
   - Destructive operations require user confirmation
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw
 ---
 
 # OpenClaw Operations

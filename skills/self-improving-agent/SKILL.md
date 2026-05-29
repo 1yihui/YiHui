@@ -1,7 +1,9 @@
 ---
 name: self-improvement
+license: MIT
 description: "Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects Claude ('No, that's wrong...', 'Actually...'), (3) User requests a capability that doesn't exist, (4) An external API or tool fails, (5) Claude realizes its knowledge is outdated or incorrect, (6) A better approach is discovered for a recurring task. Also review learnings before major tasks."
-metadata:
+source: https://github.com/1yihui/YiHui
+compatibility: openclaw
 ---
 
 # Self-Improvement Skill
@@ -48,7 +50,7 @@ OpenClaw is the primary platform for this skill. It uses workspace-based prompt 
 
 ### Installation
 
-**Via ClawdHub (recommended):**
+**Via ClawHub (recommended):**
 ```bash
 clawdhub install self-improving-agent
 ```
