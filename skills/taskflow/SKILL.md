@@ -8,15 +8,9 @@ tags:
   - taskflow
   - orchestration
   - persistence
----
-tags:
   - workflow
-  - orchestration
   - task-management
-compatibility: openclaw
-license: MIT
-source: https://github.com/1yihui/YiHui
-
+---
 
 # TaskFlow
 

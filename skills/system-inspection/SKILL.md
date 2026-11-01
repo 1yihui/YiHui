@@ -8,15 +8,9 @@ tags:
   - system-inspection
   - monitoring
   - diagnostics
----
-tags:
   - ops
-  - monitoring
   - healthcheck
-compatibility: openclaw
-license: MIT
-source: https://github.com/1yihui/YiHui
-
+---
 
 # 大龙系统巡检 SOP
 
