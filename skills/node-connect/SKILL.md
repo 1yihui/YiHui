@@ -8,15 +8,9 @@ tags:
   - node-connect
   - pairing
   - diagnostics
----
-tags:
   - networking
-  - pairing
   - troubleshooting
-compatibility: openclaw
-license: MIT
-source: https://github.com/1yihui/YiHui
-
+---
 
 # Node Connect
 

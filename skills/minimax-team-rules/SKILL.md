@@ -8,15 +8,9 @@ tags:
   - team-rules
   - multi-agent
   - coordination
----
-tags:
   - minimax
   - team
-  - multi-agent
-compatibility: openclaw
-license: MIT
-source: https://github.com/1yihui/YiHui
-
+---
 
 # MiniMax Team Rules
 
